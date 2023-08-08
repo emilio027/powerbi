@@ -1,7 +1,8 @@
 # Sales Analysis
 
-Sales Analysis is a project aimed at performing data analysis on sales data. It involves creating a SQL Server using Microsoft SQL Server Express, uploading data via a .bak file, and building a dashboard around that data using Power BI. The project is designed to help businesses gain insights into their sales performance and make data-driven decisions.
+This is a project aimed at performing data analysis on sales data. The initial inspiration for this project came from a sample business demand overview gathered from a stakeholder email. The email contained valuable insights into what he would like to see in a sales dashboard to make data-driven decisions and gain a better understanding of our sales performance.
 
+The project involves creating a SQL Server using Microsoft SQL Server Express, uploading data via a .bak file, and building a dashboard around that data using Power BI. The dashboard visualizes various sales metrics and KPIs, providing actionable insights to optimize sales strategies.
 ## Technologies Used
 
 - Microsoft SQL Server
